@@ -1,0 +1,27 @@
+.head{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+p {
+background-color:aqua;
+width: 150px;
+display: flex;
+flex-direction: column;
+
+  }
+
+  /* .del{
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+  } */
+
+  .btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
